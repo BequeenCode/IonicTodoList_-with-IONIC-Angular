@@ -1,0 +1,8 @@
+{
+  "name": "bemny",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "97ecd31e"
+}
